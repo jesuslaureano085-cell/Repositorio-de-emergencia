@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using ppp;
 
 namespace Ejercicio_de_emergencia
 {
@@ -16,7 +17,7 @@ namespace Ejercicio_de_emergencia
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new form1());
+            Application.Run(new frm());
         }
     }
 }

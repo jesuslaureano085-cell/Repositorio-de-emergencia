@@ -1,0 +1,5 @@
+C:\Users\jesus\Documents\Carpeta de emergencia\Ejercicio de emergencia\obj\Debug\Ejercicio de emergencia.csproj.AssemblyReference.cache
+C:\Users\jesus\Documents\Carpeta de emergencia\Ejercicio de emergencia\obj\Debug\Ejercicio_de_emergencia.Form1.resources
+C:\Users\jesus\Documents\Carpeta de emergencia\Ejercicio de emergencia\obj\Debug\Ejercicio_de_emergencia.Properties.Resources.resources
+C:\Users\jesus\Documents\Carpeta de emergencia\Ejercicio de emergencia\obj\Debug\Ejercicio de emergencia.csproj.GenerateResource.cache
+C:\Users\jesus\Documents\Carpeta de emergencia\Ejercicio de emergencia\obj\Debug\Ejercicio de emergencia.csproj.CoreCompileInputs.cache
